@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="وشاح الصوف الفاخر">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8A7B5C"/>
+      <stop offset="1" stop-color="#655738"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#g3)"/>
+  <circle cx="300" cy="300" r="132" fill="#F5F1E8" opacity="0.16"/>
+  <circle cx="300" cy="300" r="132" fill="none" stroke="#F5F1E8" stroke-width="8" opacity="0.65"/>
+  <circle cx="300" cy="300" r="84" fill="none" stroke="#E7DECB" stroke-width="6" opacity="0.6"/>
+  <circle cx="300" cy="300" r="34" fill="#E7DECB"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="بوب جاكيت الصوفي">
+  <defs>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3E4C68"/>
+      <stop offset="1" stop-color="#2A3648"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#g4)"/>
+  <circle cx="300" cy="296" r="148" fill="#C6A15B" opacity="0.3"/>
+  <circle cx="300" cy="296" r="148" fill="none" stroke="#F5F1E8" stroke-width="10" opacity="0.55"/>
+  <circle cx="300" cy="296" r="98" fill="none" stroke="#E7DECB" stroke-width="6" opacity="0.4"/>
+  <circle cx="300" cy="296" r="34" fill="#F5F1E8"/>
+</svg>
